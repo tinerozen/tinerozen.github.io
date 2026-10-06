@@ -1,2 +1,2 @@
-# TineRozen.github.io
+# tinerozen.github.io
 Personal homepage
